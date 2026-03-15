@@ -5,7 +5,7 @@ voici le dossier qui contient toutes les données récoltées lors de la deuxiè
 
 Pour accéder au traitement des donnés, cliquer simplement <a href="https://github.com/ltoguh/fluorescence_project_cordees_2026/blob/master/fluo_cordees.ipynb">ici</a> ou directement sur le fichier **fluo_cordees.ipynb** dans l'arbre à gauche de l'écran.<br>
 
-<p style="font-size: 20px; font-weight: bold">
+<p style="font-size: 40px; font-weight: bold">
   For English speaking visitors
 </p>
 
